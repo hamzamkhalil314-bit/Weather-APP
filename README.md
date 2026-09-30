@@ -6,7 +6,7 @@ The application uses the OpenWeather API to retrieve real-time weather data and 
 
 ## Live Demo
 
-[View Live Demo](YOUR_LIVE_DEMO_LINK)
+https://hamzamkhalil314-bit.github.io/Weather-APP/
 
 ## Features
 
